@@ -1,0 +1,5 @@
+-   id: cfn-guard
+    name: AWS CloudFormation Guard
+    entry: cfn-guard
+    language: rust
+    files: \.(json|yaml|yml)$
